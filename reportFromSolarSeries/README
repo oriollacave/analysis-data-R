@@ -1,0 +1,2 @@
+#Generates reports in pdf and validation files in corresponding output folders
+#reads formats: nc, series(vortex), obs (vortex)
